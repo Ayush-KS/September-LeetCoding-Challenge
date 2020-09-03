@@ -10,3 +10,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Backtracking | 
     > Time: O(1) |
     > Space: O(1)
+
+* Day 2: [Contains Duplicate III](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/)
+
+    > Binary Search | 
+    > Time: O(nlogn) |
+    > Space: O(n)
