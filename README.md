@@ -16,3 +16,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Binary Search | 
     > Time: O(nlogn) |
     > Space: O(n)
+
+* Day 3: [Repeated Substring Pattern](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/)
+
+    > Pattern Matching | 
+    > Time: O(n) |
+    > Space: O(n)
