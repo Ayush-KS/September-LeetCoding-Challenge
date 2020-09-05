@@ -17,8 +17,14 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Time: O(nlogn) |
     > Space: O(n)
 
-* Day 3: [Repeated Substring Pattern](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/)
+* Day 3: [Repeated Substring Pattern](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3447/)
 
     > Pattern Matching | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 4: [Partition Labels](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3448/)
+
+    > Greedy | 
+    > Time: O(n) |
+    > Space: O(1)
