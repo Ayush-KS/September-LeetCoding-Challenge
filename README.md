@@ -28,3 +28,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Greedy | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 5: [All Elements in Two Binary Search Trees](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3449/)
+
+    > Two Pointers |
+    > Time: O(n) |
+    > Space: O(n)
