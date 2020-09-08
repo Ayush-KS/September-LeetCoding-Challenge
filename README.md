@@ -40,3 +40,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Implementation |
     > Time: O(n^4) |
     > Space: O(n^2)
+
+* Day 7: [Word Pattern](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3450/)
+
+    > Hashing |
+    > Time: O(n*m) |
+    > Space: O(n*m)
+
+
+## Week 2: September 8th – September 14th [C++]
