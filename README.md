@@ -49,3 +49,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
 
 
 ## Week 2: September 8th – September 14th [C++]
+
+* Day 8: [Sum of Root To Leaf Binary Numbers](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3453/)
+
+    > DFS |
+    > Time: O(n) |
+    > Space: O(n)
