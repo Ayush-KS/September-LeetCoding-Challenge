@@ -55,3 +55,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > DFS |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 9: [Compare Version Numbers](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3454/)
+
+    > Recursive Implementation |
+    > Time: O(n) |
+    > Space: O(n)
