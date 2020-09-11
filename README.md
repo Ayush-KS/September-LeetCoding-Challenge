@@ -61,3 +61,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Recursive Implementation |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 10: [Bulls and Cows](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3455/)
+
+    > Hashing |
+    > Time: O(n) |
+    > Space: O(n)
