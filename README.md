@@ -67,3 +67,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Hashing |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 11: [Maximum Product Subarray](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3455/)
+
+    > Dynamic Programming |
+    > Time: O(n) |
+    > Space: O(1)
