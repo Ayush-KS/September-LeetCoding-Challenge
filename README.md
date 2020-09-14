@@ -79,3 +79,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Backtracking |
     > Time: O(k!) |
     > Space: O(n)
+
+* Day 13: [Insert Interval](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/)
+
+    > Greedy |
+    > Time: O(n) |
+    > Space: O(n)
