@@ -85,3 +85,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Greedy |
     > Time: O(n) |
     > Space: O(n)
+
+* Day 14: [House Robber](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/)
+
+    > Dynamic Programming |
+    > Time: O(n) |
+    > Space: O(1)
