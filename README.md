@@ -91,3 +91,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Dynamic Programming |
     > Time: O(n) |
     > Space: O(1)
+
+
+## Week 3: September 15th – September 21st [C++]
+
+* Day 15: [Length of Last Word](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/)
+
+    > Implementation |
+    > Time: O(n) |
+    > Space: O(1)
