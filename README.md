@@ -100,3 +100,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Implementation |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 16: [Maximum XOR of Two Numbers in an Array](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3462/)
+
+    > Trie |
+    > Time: O(n) |
+    > Space: O(n)
