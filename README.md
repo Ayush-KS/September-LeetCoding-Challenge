@@ -112,3 +112,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Math |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 18: [Best Time to Buy and Sell Stock](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/)
+
+    > Dynamic Programming |
+    > Time: O(n) |
+    > Space: O(1)
