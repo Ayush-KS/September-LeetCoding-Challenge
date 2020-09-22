@@ -130,3 +130,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > DFS |
     > Time: O(n^4) |
     > Space: O(n^2)
+
+* Day 21: [Car Pooling](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3467/)
+
+    > Bucket Sort |
+    > Time: O(n) |
+    > Space: O(n)
