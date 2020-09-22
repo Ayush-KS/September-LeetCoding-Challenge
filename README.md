@@ -124,3 +124,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Recursion |
     > Time: O(1) |
     > Space: O(1)
+
+* Day 20: [Unique Paths III](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/)
+
+    > DFS |
+    > Time: O(n^4) |
+    > Space: O(n^2)
