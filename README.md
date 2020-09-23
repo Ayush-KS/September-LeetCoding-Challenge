@@ -136,3 +136,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Bucket Sort |
     > Time: O(n) |
     > Space: O(n)
+
+
+## Week 4: September 22nd – September 28th [C++]
+
+* Day 22: [Majority Element II](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/)
+
+    > Boyer Moore Voting Algorithm |
+    > Time: O(n) |
+    > Space: O(1)
