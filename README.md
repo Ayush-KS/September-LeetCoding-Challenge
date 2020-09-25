@@ -151,3 +151,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Greedy |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 24: [Find the Difference](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/)
+
+    > Hashing |
+    > Time: O(n) |
+    > Space: O(1)
