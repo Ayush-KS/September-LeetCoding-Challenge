@@ -157,3 +157,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Hashing |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 25: [Largest Number](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3472/)
+
+    > Sorting |
+    > Time: O(nlogn) |
+    > Space: O(n)
