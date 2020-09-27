@@ -163,3 +163,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Sorting |
     > Time: O(nlogn) |
     > Space: O(n)
+
+* Day 26: [Teemo Attacking](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/)
+
+    > Implementation |
+    > Time: O(n) |
+    > Space: O(1)
