@@ -169,3 +169,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Implementation |
     > Time: O(n) |
     > Space: O(1)
+
+* Day 27: [Evaluate Division](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3474/)
+
+    > DFS |
+    > Time: O(n*q) |
+    > Space: O(n)
