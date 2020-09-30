@@ -181,3 +181,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > Two Pointer |
     > Time: O(n) |
     > Space: O(1)
+
+    
+## Week 5: September 29th – September 30th [C++]
+
+* Day 29: [Word Break](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3477/)
+
+    > DP + Trie |
+    > Time: O(n^2) |
+    > Space: O(n)
