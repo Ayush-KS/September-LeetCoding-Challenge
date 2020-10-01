@@ -190,3 +190,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/sep
     > DP + Trie |
     > Time: O(n^2) |
     > Space: O(n)
+
+* Day 30: [First Missing Positive](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3478/)
+
+    > Ad Hoc |
+    > Time: O(n) |
+    > Space: O(1)
